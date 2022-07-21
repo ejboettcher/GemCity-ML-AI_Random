@@ -1,5 +1,5 @@
-# GemCity-ML-AL_Random
-## Gem City Tech: July 21 Talk
+# GemCity-ML-AI_Random
+## Gem City Tech: July 21, 2022 Meetup
 ## Evelyn J. Boettcher
 ### [MeetUp link](https://www.meetup.com/gem-city-tech/events/286718391/)
 
