@@ -41,7 +41,7 @@ Join us on our Discord server: https://discord.gg/nyDtEytbt6
 
 | Gem City Tech | The Hub |
 | :--: | :--: |
-| ![Gem City Tech Logo](./data/POWERED%20BY%20GCT%20(1).svg) | ![The Hub Logo](./data/The%20Hub%20Logo%20PNC%20(1).jpg)
+| ![Gem City Tech Logo](./data/POWERED-BY-GCT.svg) | ![The Hub Logo](./data/The-Hub-Logo-PNC.jpg)
 
 * GemCity TECH: [GemCity.Tech](https://Gemcity.tech)
 * The Innovation Hub: [thehubdayton.com](https://www.thehubdayton.com/)
