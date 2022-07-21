@@ -1,6 +1,7 @@
 # GemCity-ML-AL_Random
 ## Gem City Tech: July 21 Talk
 ## Evelyn J. Boettcher
+### [MeetUp link](https://www.meetup.com/gem-city-tech/events/286718391/)
 
 Using ML-AI to test the randomness of a python random number generator.
 
