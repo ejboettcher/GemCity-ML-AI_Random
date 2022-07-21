@@ -20,6 +20,7 @@ we will try to avoid fitting an algorithm to it.
 ## First Meeting Outline
 
 * Introductions
+* Sponsors
 * Pizza and drinks
 * Random tutorial
 * Open Discussion (seed topics)
@@ -27,6 +28,32 @@ we will try to avoid fitting an algorithm to it.
    * What do you want to in this meetup
    * Second round of introductions
    * What new tools/toys are you playing with?
+
+## Introduction
+I am, Evelyn Boettcher, and I am a physicist and have been doing machine learning on and off again before Tensorflow has been around.  There is not currently a ML/AI or even a data science /visualization around Dayton and I thought that needed to change so I asked Allen if I could host a ML/AI group under Gem City Tech.
+
+Allen May is the main Gem City Tech leader.  Gem City Tech is a family of user groups bringing tech-focused content to the Dayton Ohio community. There calendar is filled with opportunities to learn and share information 'about all things tech'.
+
+Join us on our Discord server: https://discord.gg/nyDtEytbt6
+
+### Gem City ML / AI Sponsors 
+
+| Gem City Tech | The Hub |
+| :--: | :--: |
+| ![Gem City Tech Logo](./data/POWERED%20BY%20GCT%20(1).svg) | ![The Hub Logo](./data/The%20Hub%20Logo%20PNC%20(1).jpg)
+
+* GemCity TECH: [GemCity.Tech](https://Gemcity.tech)
+* The Innovation Hub: [thehubdayton.com](https://www.thehubdayton.com/)
+
+An upcoming sponsor:
+* Technology First: [www.technologyfirst.org](https://www.technologyfirst.org/)
+
+### Calendar Events
+* Gem City Tech: Third Thursday at 6.
+* The GemCity TECH Meetup calendar of upcoming events: [www.meetup.com/gem-city-tech](https://www.meetup.com/gem-city-tech/events/calendar/)
+* [The Technology First events calendar](https://www.technologyfirst.org/Technology-First-Events?EventViewMode=1&EventListViewMode=2&SelectedDate=8/20/2022&CalendarViewType=1)
+
+
 
 ## Intro to Random Numbers and ML
 When I went through the tutorial: 
